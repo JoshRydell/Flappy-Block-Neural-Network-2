@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy Block Neural Network 2", "Flappy Block Neural Network 2\Flappy Block Neural Network 2.csproj", "{181D2661-48D9-4C9A-BB42-6EC78371FED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181D2661-48D9-4C9A-BB42-6EC78371FED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181D2661-48D9-4C9A-BB42-6EC78371FED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181D2661-48D9-4C9A-BB42-6EC78371FED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181D2661-48D9-4C9A-BB42-6EC78371FED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D111518E-C1B3-4A78-BAE4-1DB1CA2D9464}
+	EndGlobalSection
+EndGlobal
